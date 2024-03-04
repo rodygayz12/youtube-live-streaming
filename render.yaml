@@ -13,4 +13,4 @@ services:
 
 secrets:
   - name: streamkey
-    value: "5y22-9v50-1jmr-9566-1vyu"
+    value: "<YOUR_SECRET_STREAM_KEY>"
