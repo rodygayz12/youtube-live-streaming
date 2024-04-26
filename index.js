@@ -6,7 +6,7 @@ const server = express()
 const rl = readline.createInterface({ input, output });
 
 const streamkey = await rl.question('ptv1-prvf-rwe4-0wx9-99pm');
-const video = await rl.question('video.mp4');
+const video = await rl.question('hajilok.mov');
 const audio = "https://stream.zeno.fm/ez4m4918n98uv";
 
 const ffmpegCommand = [
